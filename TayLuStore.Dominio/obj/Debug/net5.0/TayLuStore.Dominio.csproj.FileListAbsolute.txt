@@ -1,0 +1,12 @@
+C:\C# e .NET\TayLuStore\TayLuStore.Dominio\bin\Debug\net5.0\TayLuStore.Dominio.deps.json
+C:\C# e .NET\TayLuStore\TayLuStore.Dominio\bin\Debug\net5.0\TayLuStore.Dominio.dll
+C:\C# e .NET\TayLuStore\TayLuStore.Dominio\bin\Debug\net5.0\ref\TayLuStore.Dominio.dll
+C:\C# e .NET\TayLuStore\TayLuStore.Dominio\bin\Debug\net5.0\TayLuStore.Dominio.pdb
+C:\C# e .NET\TayLuStore\TayLuStore.Dominio\obj\Debug\net5.0\TayLuStore.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# e .NET\TayLuStore\TayLuStore.Dominio\obj\Debug\net5.0\TayLuStore.Dominio.AssemblyInfoInputs.cache
+C:\C# e .NET\TayLuStore\TayLuStore.Dominio\obj\Debug\net5.0\TayLuStore.Dominio.AssemblyInfo.cs
+C:\C# e .NET\TayLuStore\TayLuStore.Dominio\obj\Debug\net5.0\TayLuStore.Dominio.csproj.CoreCompileInputs.cache
+C:\C# e .NET\TayLuStore\TayLuStore.Dominio\obj\Debug\net5.0\TayLuStore.Dominio.dll
+C:\C# e .NET\TayLuStore\TayLuStore.Dominio\obj\Debug\net5.0\ref\TayLuStore.Dominio.dll
+C:\C# e .NET\TayLuStore\TayLuStore.Dominio\obj\Debug\net5.0\TayLuStore.Dominio.pdb
+C:\C# e .NET\TayLuStore\TayLuStore.Dominio\obj\Debug\net5.0\TayLuStore.Dominio.csproj.AssemblyReference.cache
